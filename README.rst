@@ -67,7 +67,7 @@ Install
 To install you can use ``pip install --user coinbitrage`` to install from pypi_ or to install directly from github
 ``pip install git+https://github.com/Granitosaurus/coinbitrage@v0.1.1``
 
-_pypi: http://pypi.org
+.. _pypi: https://github.com/audreyr/cookiecutter
 
 
 Support
