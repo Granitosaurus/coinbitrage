@@ -53,7 +53,10 @@ Features
 
 To run continuously use gnu's watch_ tool.
 For example, if you wish to continuesly observe difference between bitfinex and binance exchanges
-you could run: `watch -n 30 "coinbitrage diff bitfinex binance"` to get data every 30 seconds.
+you can run watch with refresh rate of 30 seconds:
+
+::
+    watch -n 30 "coinbitrage diff bitfinex binance"
 
 .. _watch: https://en.wikipedia.org/wiki/Watch_(Unix)#External_links
 
