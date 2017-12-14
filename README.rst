@@ -80,6 +80,7 @@ If you wish to support the development of Coinbitrage and similar apps you can d
 * Bitcoin Cash: ``18oJWwdy1XExN69kggj2JdYtqohMPx9QF8``
 * Doge: ``DEmJSgawKvtS9CGQUC7QdNETa2UuYBrenS``
 * Ethereum: ``0xe8b452F9E3FDa8CEB32b2C231f73cC5cFa67735B``
+* Monero: ``43PAxkfekEYQki3HTQkgt9eH7KK5ZRBd447HkumTGmo8cacA9vP25MwWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yjjWof``
 
 
 Credits
