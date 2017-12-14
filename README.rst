@@ -61,6 +61,14 @@ you can run watch with refresh rate of 30 seconds:
 
 .. _watch: https://en.wikipedia.org/wiki/Watch_(Unix)#External_links
 
+Install
+-------
+
+To install you can use ``pip install --user coinbitrage`` to install from pypi_ or to install directly from github
+``pip install git+https://github.com/Granitosaurus/coinbitrage@v0.1.1``
+
+_pypi: http://pypi.org
+
 
 Support
 -------
@@ -68,10 +76,10 @@ Support
 This package is released under GPLv3 copyleft license, feel free to fork it and any pull requests or issue tickets are welcome!
 If you wish to support the development of Coinbitrage and similar apps you can donate cryptocurrency to these addresses:
 
-* Bitcoin Core: `18oJWwdy1XExN69kggj2JdYtqohMPx9QF8`
-* Bitcoin Cash: `18oJWwdy1XExN69kggj2JdYtqohMPx9QF8`
-* Doge: `DEmJSgawKvtS9CGQUC7QdNETa2UuYBrenS`
-* Ethereum: `0xe8b452F9E3FDa8CEB32b2C231f73cC5cFa67735B`
+* Bitcoin Core: ``18oJWwdy1XExN69kggj2JdYtqohMPx9QF8``
+* Bitcoin Cash: ``18oJWwdy1XExN69kggj2JdYtqohMPx9QF8``
+* Doge: ``DEmJSgawKvtS9CGQUC7QdNETa2UuYBrenS``
+* Ethereum: ``0xe8b452F9E3FDa8CEB32b2C231f73cC5cFa67735B``
 
 
 Credits
