@@ -56,6 +56,7 @@ For example, if you wish to continuesly observe difference between bitfinex and 
 you can run watch with refresh rate of 30 seconds:
 
 ::
+
     watch -n 30 "coinbitrage diff bitfinex binance"
 
 .. _watch: https://en.wikipedia.org/wiki/Watch_(Unix)#External_links
