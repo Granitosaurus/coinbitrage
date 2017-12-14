@@ -18,17 +18,40 @@ coinbitrage
      :alt: Updates
 
 
-Arbitrage estimator for crypto currency exchanges
+Command line interface application for comparing coin prices for crypto-currency arbitrage
+
+::
+
+    $ coinbitrage diff bitfinex gdax
+    ┌──────────┬──────────┬───────┬─────────┬───────────┐
+    │ currency │ bitfinex │ gdax  │ diff    │ diff_perc │
+    ├──────────┼──────────┼───────┼─────────┼───────────┤
+    │ Litecoin │ 283.6    │ 283.8 │ 0.21700 │ -0.07652  │
+    │ Ethereum │ 686.4    │ 696.2 │ 9.713   │ -1.41498  │
+    │ Bitcoin  │ 16355    │ 16869 │ 514.3   │ -3.14458  │
+    └──────────┴──────────┴───────┴─────────┴───────────┘
 
 
 * Free software: GNU General Public License v3
 * Documentation: https://coinbitrage.readthedocs.io.
 
-
 Features
 --------
 
-* TODO
+::
+
+    $coinbitrage diff --help
+    Usage: coinbitrage diff [OPTIONS] EXCHANGE1 EXCHANGE2
+
+      show difference between two exchanges
+
+    Options:
+      --reverse       reverse ordering
+      --sort-by TEXT  which column to sort by [diff, diff_perc]  [default:
+                      diff_perc]
+      --help          Show this message and exit.
+
+Coinbitrage is using coinmarketcap for price data.
 
 Credits
 ---------

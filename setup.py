@@ -13,23 +13,24 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'Click>=6.0',
-    # TODO: put package requirements here
+    'parsel',
+    'requests',
+    'requests',
+    'terminaltables',
 ]
 
 setup_requirements = [
     'pytest-runner',
-    # TODO(granitosaurus): put setup requirements (distutils extensions, etc.) here
 ]
 
 test_requirements = [
     'pytest',
-    # TODO: put package test requirements here
 ]
 
 setup(
     name='coinbitrage',
     version='0.1.1',
-    description="Arbitrage estimator for crypto currency exchanges",
+    description="Arbitrage lookup for crypto currency exchanges",
     long_description=readme + '\n\n' + history,
     author="Bernardas Ališauskas",
     author_email='bernardas.alisauskas@protonmail.com',
@@ -37,7 +38,7 @@ setup(
     packages=find_packages(include=['coinbitrage']),
     entry_points={
         'console_scripts': [
-            'coinbitrage=coinbitrage.main:main'
+            'coinbitrage=coinbitrage.cli:main'
         ]
     },
     include_package_data=True,

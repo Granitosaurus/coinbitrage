@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b118ddd5-e4c4-4027-b6f9-24834cce31e5" name="Default" comment="" />
+    <list default="true" id="b118ddd5-e4c4-4027-b6f9-24834cce31e5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rst" afterPath="$PROJECT_DIR$/README.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coinbitrage/coinbitrage.py" afterPath="$PROJECT_DIR$/coinbitrage/coinbitrage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_coinbitrage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test_coinbitrage.py">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="92">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -27,16 +31,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/design.md" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/coinbitrage/__init__.py" />
-        <option value="$PROJECT_DIR$/coinbitrage/coinbitrage.py" />
         <option value="$PROJECT_DIR$/tests/test_coinbitrage.py" />
         <option value="$PROJECT_DIR$/coinbitrage/cli.py" />
+        <option value="$PROJECT_DIR$/coinbitrage/coinbitrage.py" />
+        <option value="$PROJECT_DIR$/README.rst" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/coinbitrage.egg-info/PKG-INFO" />
       </list>
     </option>
   </component>
@@ -50,6 +59,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -158,6 +168,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b118ddd5-e4c4-4027-b6f9-24834cce31e5" name="Default" comment="" />
@@ -168,13 +181,22 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968128" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60956174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -209,15 +231,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
           <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <marker date="1513266450558" expanded="true" signature="0:45" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="283:344" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="369:475" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="499:561" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="951:1043" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="980:1037" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="1222:1481" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -225,22 +239,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <marker date="1513266450558" expanded="true" signature="0:45" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="283:344" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="369:475" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="499:561" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="951:1043" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="980:1037" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="1222:1481" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -300,22 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <marker date="1513266450558" expanded="true" signature="0:45" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="283:344" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="369:475" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="499:561" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="951:1043" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="980:1037" ph="..." />
-            <marker date="1513266450558" expanded="true" signature="1222:1481" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coinbitrage/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -370,35 +353,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_coinbitrage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <marker date="1513266450568" expanded="true" signature="0:45" ph="..." />
+            <marker date="1513266450568" expanded="false" signature="87:202" ph="import ..." />
+            <marker date="1513266450568" expanded="true" signature="236:438" ph="..." />
+            <marker date="1513266450568" expanded="false" signature="241:337" ph="&quot;&quot;&quot;Sample pytest fixture....&quot;&quot;&quot;" />
+            <marker date="1513266450568" expanded="true" signature="342:438" ph="..." />
+            <marker date="1513266450568" expanded="true" signature="468:652" ph="..." />
+            <marker date="1513266450568" expanded="true" signature="551:652" ph="..." />
+            <marker date="1513266450568" expanded="true" signature="689:1023" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coinbitrage/coinbitrage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513266236145" expanded="true" signature="24:133" ph="import ..." />
-            <marker date="1513266236145" expanded="true" signature="160:478" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="174:478" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="526:1119" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="531:645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1513266236145" expanded="true" signature="911:1100" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="1288:1880" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="1293:1537" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1513266236145" expanded="true" signature="1574:1766" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="1981:2671" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="1986:2238" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1513266236145" expanded="true" signature="2470:2652" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="2505:2650" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="2731:2937" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="2968:3566" ph="..." />
-            <marker date="1513266236145" expanded="true" signature="3235:3566" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="24:133" ph="import ..." />
+            <marker date="1513266924278" expanded="true" signature="160:478" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="174:478" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="526:1072" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="531:645" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1513266924278" expanded="true" signature="864:1053" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="1241:1833" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="1246:1490" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1513266924278" expanded="true" signature="1527:1719" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="1934:2624" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="1939:2191" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1513266924278" expanded="true" signature="2423:2605" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="2458:2603" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="2684:2890" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="2921:3519" ph="..." />
+            <marker date="1513266924278" expanded="true" signature="3188:3519" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coinbitrage/cli.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="69">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
             <marker date="1513266450572" expanded="true" signature="24:149" ph="import ..." />
             <marker date="1513266450572" expanded="true" signature="178:187" ph="..." />
@@ -408,10 +424,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_coinbitrage.py">
+    <entry file="file://$PROJECT_DIR$/coinbitrage.egg-info/PKG-INFO">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

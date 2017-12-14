@@ -24,7 +24,6 @@ def download_exchange(exchange: str) -> dict:
     :return: dict of currency: usd_price
     """
     url = f'https://coinmarketcap.com/exchanges/{exchange}/'
-    print(f'downloading exchange: {exchange}')
     resp = requests.get(url)
     sel = parsel.Selector(text=resp.text, base_url=resp.url)
     results = {}
