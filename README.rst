@@ -51,11 +51,16 @@ Features
                       diff_perc]
       --help          Show this message and exit.
 
-Coinbitrage is using coinmarketcap for price data.
+To run continuously use gnu's watch_ tool.
+For example, if you wish to continuesly observe difference between bitfinex and binance exchanges
+you could run: `watch -n 30 "coinbitrage diff bitfinex binance"` to get data every 30 seconds.
+
+.. _watch: https://en.wikipedia.org/wiki/Watch_(Unix)#External_links
 
 Credits
 ---------
 
+Pricing data is provided by http://coinmartketcap.com
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
