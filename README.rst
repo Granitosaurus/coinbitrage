@@ -70,19 +70,6 @@ To install you can use ``pip install --user coinbitrage`` to install from pypi_ 
 .. _pypi: https://github.com/audreyr/cookiecutter
 
 
-Support
--------
-
-This package is released under GPLv3 copyleft license, feel free to fork it and any pull requests or issue tickets are welcome!
-If you wish to support the development of Coinbitrage and similar apps you can donate cryptocurrency to these addresses:
-
-* Bitcoin Core: ``18oJWwdy1XExN69kggj2JdYtqohMPx9QF8``
-* Bitcoin Cash: ``18oJWwdy1XExN69kggj2JdYtqohMPx9QF8``
-* Doge: ``DEmJSgawKvtS9CGQUC7QdNETa2UuYBrenS``
-* Ethereum: ``0xe8b452F9E3FDa8CEB32b2C231f73cC5cFa67735B``
-* Monero: ``43PAxkfekEYQki3HTQkgt9eH7KK5ZRBd447HkumTGmo8cacA9vP25MwWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yjjWof``
-
-
 Credits
 ---------
 
